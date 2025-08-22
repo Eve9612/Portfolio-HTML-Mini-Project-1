@@ -1,3 +1,2 @@
 # Portfolio-HTML-Mini-Project-1
-I like to learn from the basics to advanced to fully understand the principles. On my journey to becoming a great JavaScript Fullstack Developer, it’s important to master each concept.
-JavaScript is built on HTML, CSS, and JavaScript — and the most basic level starts with HTML. In this project, I’m practicing basic HTML concepts such as navigation bars, divs, images & links, paragraphs, unordered & ordered lists, and inline styling. 
+I like to learn from the basics to advanced to fully understand the principles. On my journey to becoming a skilled JavaScript Fullstack Developer, it’s essential to master each concept step by step. Since JavaScript is built on the foundation of HTML and CSS, my starting point is HTML. The purpose of this project is to focus on fundamental HTML concepts such as navigation bars, divs containers, images and links, paragraphs, unordered and ordered lists, and inline styling.
